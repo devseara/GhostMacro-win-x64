@@ -1,0 +1,3 @@
+# Vision templates are calibrated separately for each computer.
+# Keep the local files, but never replace them during git pull.
+/Resources/VisionTemplates/
